@@ -251,32 +251,6 @@ Estas limitaciones representan posibles líneas de trabajo para futuras mejoras 
 
 ---
 
-# Estructura del proyecto
-
-```text
-.
-├── datasets/
-│   └── dataset_final.gpkg
-│
-├── notebooks/
-│   └── resolucion.ipynb
-│
-├── resultados/
-│   ├── pareto.png
-│   ├── soluciones.png
-│   └── mapas/
-│
-├── informe/
-│   └── Informe.pdf
-│
-├── presentacion/
-│   └── Presentacion.pdf
-│
-└── README.md
-```
-
----
-
 # Ejecución
 
 Instalar las dependencias correspondientes
