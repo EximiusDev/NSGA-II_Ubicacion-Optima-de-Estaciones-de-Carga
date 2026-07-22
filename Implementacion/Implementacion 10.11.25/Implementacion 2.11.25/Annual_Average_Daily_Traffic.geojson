@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"BACK_AADT": "3000", "COUNTY": "TUL"},
+      "geometry": {"type": "Point", "coordinates": [-119.292, 36.201]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"BACK_AADT": 5000, "COUNTY": "TUL"},
+      "geometry": {"type": "Point", "coordinates": [-118.846, 36.347]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"BACK_AADT": 2000, "COUNTY": "TUL"},
+      "geometry": {"type": "Point", "coordinates": [-119.0, 36.4]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"BACK_AADT": 7000, "COUNTY": "OTHER"},
+      "geometry": {"type": "Point", "coordinates": [-120.0, 35.5]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"BACK_AADT": "4000", "COUNTY": "TUL"},
+      "geometry": {"type": "Point", "coordinates": [-119.5, 36.0]}
+    }
+  ]
+}
